@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "994404118558"
+global.ownername = "SHAHROZ ALI"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "Pakistan, DGKHAN, DGKHAN"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '994404118558 //creator number
+global.ownername = 'SHAHROZ ALI' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
